@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameTransformer", "NameTransformer\NameTransformer.csproj", "{DFC9CB9A-E9A6-4358-BFD8-18F8162F704E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameTransformer.UnitTests", "NameTransformer.UnitTests\NameTransformer.UnitTests.csproj", "{394D718A-BFBD-471D-BBE4-DA63E7425460}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFC9CB9A-E9A6-4358-BFD8-18F8162F704E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC9CB9A-E9A6-4358-BFD8-18F8162F704E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC9CB9A-E9A6-4358-BFD8-18F8162F704E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC9CB9A-E9A6-4358-BFD8-18F8162F704E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{394D718A-BFBD-471D-BBE4-DA63E7425460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{394D718A-BFBD-471D-BBE4-DA63E7425460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{394D718A-BFBD-471D-BBE4-DA63E7425460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{394D718A-BFBD-471D-BBE4-DA63E7425460}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBE4C59E-FCC5-4343-8B10-1251EB85B3EC}
+	EndGlobalSection
+EndGlobal
